@@ -1,10 +1,5 @@
-This PR establishes the initial foundation for didactic-adventure, a project focused on disrupting ad-driven networks at their source and preventing propagation across connected platforms and devices.Here’s a ready-to-use PR draft for the repo Msmrgan38/didactic-adventure.
 
-Title:
-Initial foundation for didactic-adventure
-
-PR body:
-## Summary
+Initial foundation 
 This PR establishes the initial foundation for didactic-adventure, a project focused on disrupting ad-driven networks at their source and preventing propagation across connected platforms and devices.
 
 The goal of this change is to create a clean, maintainable starting point for the project so additional features and modules can be built on top of a stable base.
